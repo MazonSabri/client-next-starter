@@ -33,6 +33,6 @@
   "engines": {
     "node": ">=20.11.1",
     "yarn": ">=1.22.21",
-    "npm": "not use"
+    "npm": "not use,"
   }
 }
